@@ -32,6 +32,7 @@ qurankarem-flask/
 │   ├── index.html        # الصفحة الرئيسية (قائمة السور)
 │   └── surah.html        # صفحة تفاصيل السورة
 ├── static/               # ملفات CSS/JS/صور إضافية
+│   requirements.txt
 └── README.md             # ملف التوثيق
 ```
 
@@ -71,10 +72,10 @@ http://127.0.0.1:8080/
 
 ## 📸 لقطات شاشة
 - **الصفحة الرئيسية**: قائمة السور مع عدد الآيات.  
-![Homepage Screenshot](screenshots/main.png)
+![Homepage Screenshot](Screenshots/main.png)
 
 - **صفحة السورة**: بيانات وصفية + مشغل صوت.  
-![Surah Screenshot](screenshots/3.png)
+![Surah Screenshot](Screenshots/3.png)
 
 ---
 
@@ -132,6 +133,7 @@ qurankarem-flask/
 │   ├── index.html        # Homepage listing all surahs
 │   └── surah.html        # Surah detail page
 ├── static/               # Optional CSS/JS/images
+│   requirements.txt
 └── README.md             # Project documentation
 ```
 
@@ -171,10 +173,10 @@ http://127.0.0.1:8080/
 
 ## 📸 Screenshots
 - **Homepage**: List of surahs with ayah counts.  
-![Homepage Screenshot](screenshots/main.png)
+![Homepage Screenshot](Screenshots/main.png)
 
 - **Surah Page**: Metadata + audio player.  
-![Surah Screenshot](screenshots/3.png)
+![Surah Screenshot](Screenshots/3.png)
 
 ---
 
